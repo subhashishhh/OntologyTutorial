@@ -1,4 +1,4 @@
-# Ontology Tutorial
+# Ontology Tutorial (web references)
 Tutorial
 A Practical Guide To Building OWL Ontologies Using Prot´eg´e 4 and CO-ODE Tools Edition 1.3 
 http://mowl-power.cs.man.ac.uk/protegeowltutorial/resources/ProtegeOWLTutorialP4_v1_3.pdf 
@@ -8,6 +8,10 @@ https://bigdataieee.org/BigData2019/files/Tutorial6.pdf
 
 Data and Knowledge Representation Languages
 http://dit.unitn.it/~ldkr/ldkr2016/lessons.html 
+
+
+Tutorial: Semantic Similarity and Machine Learning with Ontologies
+https://github.com/bio-ontology-research-group/ontology-tutorial 
 
 Data Virtualization with GraphDB 9.5 
 
