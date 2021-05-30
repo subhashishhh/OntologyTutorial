@@ -1,4 +1,4 @@
-# OntologyTutorial
+# Ontology Tutorial
 Tutorial
 A Practical Guide To Building OWL Ontologies Using Prot´eg´e 4 and CO-ODE Tools Edition 1.3 
 http://mowl-power.cs.man.ac.uk/protegeowltutorial/resources/ProtegeOWLTutorialP4_v1_3.pdf 
