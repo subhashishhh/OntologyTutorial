@@ -20,6 +20,10 @@ https://youtu.be/ToITEJESi60
 SHACL Validation with GraphDB 9.5 
 https://graphdb.ontotext.com/documentation/free/shacl-validation.html 
 
+W3C Workshop on Web Standardization for Graph Data Creating Bridges: RDF, Property Graph and SQL
+https://www.w3.org/Data/events/data-ws-2019/minutes.html
+
+
 Developing Web Science
 http://swl.slis.indiana.edu/tools.html
 
