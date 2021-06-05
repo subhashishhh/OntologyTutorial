@@ -32,3 +32,7 @@ https://punya.mit.edu
 
 Punya: The instructions for the tutorial are available as a Google Doc.
 https://docs.google.com/document/d/1CJ-uecwaE5kGDX6QFHuZCIwyVlcWJCQ4Xd6iwEfwxZs/edit?usp=sharing 
+
+
+CS520: Spring 2021 Knowledge Graphs Seminar Session 21
+https://www.youtube.com/watch?v=FWs2RNx-d6Q 
