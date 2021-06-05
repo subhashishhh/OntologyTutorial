@@ -29,3 +29,6 @@ http://swl.slis.indiana.edu/tools.html
 
 Punya: Linked Data technologies on smartphones  
 https://punya.mit.edu 
+
+Punya: The instructions for the tutorial are available as a Google Doc.
+https://docs.google.com/document/d/1CJ-uecwaE5kGDX6QFHuZCIwyVlcWJCQ4Xd6iwEfwxZs/edit?usp=sharing 
