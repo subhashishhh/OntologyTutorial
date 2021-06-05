@@ -1,12 +1,14 @@
 # Ontology Tutorial (web references)
 Tutorial
+
+
 A Practical Guide To Building OWL Ontologies Using Prot´eg´e 4 and CO-ODE Tools Edition 1.3 
 http://mowl-power.cs.man.ac.uk/protegeowltutorial/resources/ProtegeOWLTutorialP4_v1_3.pdf 
 
 Tutorial 6: Large scale semantic graph data management and analytics
 https://bigdataieee.org/BigData2019/files/Tutorial6.pdf 
 
-Data and Knowledge Representation Languages
+Data and Knowledge Representation Languages-DISI-University of Trento, Italy
 http://dit.unitn.it/~ldkr/ldkr2016/lessons.html 
 
 
