@@ -27,3 +27,5 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
 Developing Web Science
 http://swl.slis.indiana.edu/tools.html
 
+Punya: Linked Data technologies on smartphones  
+https://punya.mit.edu 
