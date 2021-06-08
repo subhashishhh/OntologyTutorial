@@ -26,6 +26,11 @@ https://graphdb.ontotext.com/documentation/free/shacl-validation.html
 W3C Workshop on Web Standardization for Graph Data Creating Bridges: RDF, Property Graph and SQL
 https://www.w3.org/Data/events/data-ws-2019/minutes.html
 
+SPARQL: 
+  SWApi Tutorial | Part 1: Libraries for accessing RDF data 
+  https://www.youtube.com/watch?v=lafGyk9VBlI 
+  SWApi Tutorial | Part 2: Web API for RDF
+  https://www.youtube.com/watch?v=eosJJ7mKZGE 
 
 Developing Web Science
 http://swl.slis.indiana.edu/tools.html
