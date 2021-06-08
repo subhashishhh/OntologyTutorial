@@ -37,8 +37,8 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
   https://www.youtube.com/watch?v=lafGyk9VBlI 
   SWApi Tutorial | Part 2: Web API for RDF
   https://www.youtube.com/watch?v=eosJJ7mKZGE 
-
-
+  grlc 
+  https://grlc.io/
 
 <h3> Mobile App </h3> 
 Punya: Linked Data technologies on smartphones  
