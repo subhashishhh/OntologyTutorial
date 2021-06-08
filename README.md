@@ -12,6 +12,11 @@ https://bigdataieee.org/BigData2019/files/Tutorial6.pdf
 Data and Knowledge Representation Languages-DISI-University of Trento, Italy
 http://dit.unitn.it/~ldkr/ldkr2016/lessons.html 
 
+Developing Web Science
+http://swl.slis.indiana.edu/tools.html
+
+CS520: Spring 2021 Knowledge Graphs Seminar Session 21
+https://www.youtube.com/watch?v=FWs2RNx-d6Q 
 
 Tutorial: Semantic Similarity and Machine Learning with Ontologies
 https://github.com/bio-ontology-research-group/ontology-tutorial 
@@ -33,8 +38,7 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
   SWApi Tutorial | Part 2: Web API for RDF
   https://www.youtube.com/watch?v=eosJJ7mKZGE 
 
-Developing Web Science
-http://swl.slis.indiana.edu/tools.html
+
 
 <h3> Mobile App </h3> 
 Punya: Linked Data technologies on smartphones  
@@ -44,5 +48,4 @@ Punya: The instructions for the tutorial are available as a Google Doc.
 https://docs.google.com/document/d/1CJ-uecwaE5kGDX6QFHuZCIwyVlcWJCQ4Xd6iwEfwxZs/edit?usp=sharing 
 
 
-CS520: Spring 2021 Knowledge Graphs Seminar Session 21
-https://www.youtube.com/watch?v=FWs2RNx-d6Q 
+
