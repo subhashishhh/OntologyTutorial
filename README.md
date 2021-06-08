@@ -21,9 +21,7 @@ https://www.youtube.com/watch?v=FWs2RNx-d6Q </li>
  <li> Tutorial: Semantic Similarity and Machine Learning with Ontologies
 https://github.com/bio-ontology-research-group/ontology-tutorial </li>
 
- <li> Data Virtualization with GraphDB 9.5 
-
-https://youtu.be/ToITEJESi60 </li>
+ <li> Data Virtualization with GraphDB 9.5 https://youtu.be/ToITEJESi60 </li>
 </ul> 
 <h3> SHACL </h3>
 SHACL Validation with GraphDB 9.5 
