@@ -33,10 +33,12 @@ W3C Workshop on Web Standardization for Graph Data Creating Bridges: RDF, Proper
 https://www.w3.org/Data/events/data-ws-2019/minutes.html
 
 <h3>SPARQL Query </h3>
+
   SWApi Tutorial | Part 1: Libraries for accessing RDF data 
   https://www.youtube.com/watch?v=lafGyk9VBlI 
   SWApi Tutorial | Part 2: Web API for RDF
   https://www.youtube.com/watch?v=eosJJ7mKZGE 
+  https://d2klab.github.io/swapi2020/ 
   grlc 
   https://grlc.io/
 
