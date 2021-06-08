@@ -1,6 +1,6 @@
 # Ontology Tutorial (web references)
 
-Tutorial
+<h3> Practical Guide </h3>
 
 
 A Practical Guide To Building OWL Ontologies Using Prot´eg´e 4 and CO-ODE Tools Edition 1.3 
@@ -20,13 +20,14 @@ Data Virtualization with GraphDB 9.5
 
 https://youtu.be/ToITEJESi60 
 
+<h3> SHACL </h3>
 SHACL Validation with GraphDB 9.5 
 https://graphdb.ontotext.com/documentation/free/shacl-validation.html 
 
 W3C Workshop on Web Standardization for Graph Data Creating Bridges: RDF, Property Graph and SQL
 https://www.w3.org/Data/events/data-ws-2019/minutes.html
 
-<h3>SPARQL: </h3>
+<h3>SPARQL Query </h3>
   SWApi Tutorial | Part 1: Libraries for accessing RDF data 
   https://www.youtube.com/watch?v=lafGyk9VBlI 
   SWApi Tutorial | Part 2: Web API for RDF
@@ -35,6 +36,7 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
 Developing Web Science
 http://swl.slis.indiana.edu/tools.html
 
+<h3> Mobile App </h3> 
 Punya: Linked Data technologies on smartphones  
 https://punya.mit.edu 
 
