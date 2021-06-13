@@ -9,6 +9,7 @@ http://mowl-power.cs.man.ac.uk/protegeowltutorial/resources/ProtegeOWLTutorialP4
  <li> Tutorial 6: Large scale semantic graph data management and analytics
 https://bigdataieee.org/BigData2019/files/Tutorial6.pdf </li>
 
+ <li>  Tutorial, DBKDA 2018: The architectures of triple-stores https://www.iaria.org/conferences2018/filesDBKDA18/IztokSavnik_Tutorial_3store-arch.pdf </li>
  <li> Data and Knowledge Representation Languages-DISI-University of Trento, Italy
 http://dit.unitn.it/~ldkr/ldkr2016/lessons.html </li>
 
