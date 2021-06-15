@@ -3,8 +3,10 @@
 <h3> Practical Guide </h3>
 
 <ul>
- <li> A Practical Guide To Building OWL Ontologies Using Prot´eg´e 4 and CO-ODE Tools Edition 1.3 
+ <li> A Practical Guide To Building OWL Ontologies Using Protégé 4 and CO-ODE Tools Edition 1.3 
 http://mowl-power.cs.man.ac.uk/protegeowltutorial/resources/ProtegeOWLTutorialP4_v1_3.pdf </li>
+ 
+ <li> New Protégé Pizza Tutorial https://www.michaeldebellis.com/post/new-protege-pizza-tutorial </li>
 
  <li> Tutorial 6: Large scale semantic graph data management and analytics
 https://bigdataieee.org/BigData2019/files/Tutorial6.pdf </li>
