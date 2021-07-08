@@ -43,6 +43,9 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
 (SWApi) https://d2klab.github.io/swapi2020/ </li>
   <li> grlc 
   https://grlc.io/ </li>
+ 
+  <li> Stream Reasoning with C-SPARQL
+ https://arxiv.org/pdf/2106.08452.pdf </li>
 </ul> 
 <h3> Mobile App </h3> 
 <ul>
