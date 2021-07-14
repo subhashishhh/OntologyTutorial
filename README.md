@@ -59,8 +59,8 @@ https://docs.google.com/document/d/1CJ-uecwaE5kGDX6QFHuZCIwyVlcWJCQ4Xd6iwEfwxZs/
  <ul>
 <li> Interactive Deep Learning Book https://d2l.ai </li>
   </ul> 
- <h3>Python library for Natural Language Processing </h3> 
+ <h3> Natural Language Processing </h3> 
    <ul>
-  https://pypi.org/project/PyNLPl/
+  <li> Python library for Natural Language Processing https://pypi.org/project/PyNLPl/ </li>
 </ul> 
 
