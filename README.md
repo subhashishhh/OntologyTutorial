@@ -55,12 +55,12 @@ https://punya.mit.edu </li>
 <li>  Punya: The instructions for the tutorial are available as a Google Doc.
 https://docs.google.com/document/d/1CJ-uecwaE5kGDX6QFHuZCIwyVlcWJCQ4Xd6iwEfwxZs/edit?usp=sharing </li>
 
- <h3> Deep Learning  </h3> 
- <ul>
+<h3> Deep Learning  </h3> 
+<ul>
 <li> Interactive Deep Learning Book https://d2l.ai </li>
-  </ul> 
+ </ul> 
  <h3> Natural Language Processing </h3> 
-   <ul>
-  <li> Python library for Natural Language Processing https://pypi.org/project/PyNLPl/ </li>
-</ul> 
+ <ul>
+ <li> Python library for Natural Language Processing https://pypi.org/project/PyNLPl/ </li>
+ </ul> 
 
