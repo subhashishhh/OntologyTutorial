@@ -25,6 +25,8 @@ https://www.youtube.com/watch?v=FWs2RNx-d6Q </li>
 https://github.com/bio-ontology-research-group/ontology-tutorial </li>
 
  <li> Data Virtualization with GraphDB 9.5 https://youtu.be/ToITEJESi60 </li>
+ 
+ <li> RDF-Star: Metadata Complexity Simplified https://www.ontotext.com/blog/rdf-star-metadata-complexity-simplified/?utm_campaign=AS&utm_content=169685042&utm_medium=social&utm_source=twitter&hss_channel=tw-33893047 </li>
 </ul> 
 <h3> SHACL </h3>
 SHACL Validation with GraphDB 9.5 
