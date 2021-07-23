@@ -48,6 +48,10 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
  
   <li> Stream Reasoning with C-SPARQL
  https://arxiv.org/pdf/2106.08452.pdf </li>
+ 
+ <li> VoCol: An Integrated Environment to Support
+Version-Controlled Vocabulary Development  https://github.com/vocol/vocol </li>
+ <li>Wizard for documenting ontologies https://github.com/dgarijo/Widoco </li>
 </ul> 
 <h3> Mobile App </h3> 
 <ul>
