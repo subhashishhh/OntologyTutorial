@@ -27,6 +27,9 @@ https://github.com/bio-ontology-research-group/ontology-tutorial </li>
  <li> Data Virtualization with GraphDB 9.5 https://youtu.be/ToITEJESi60 </li>
  
  <li> RDF-Star: Metadata Complexity Simplified https://www.ontotext.com/blog/rdf-star-metadata-complexity-simplified/?utm_campaign=AS&utm_content=169685042&utm_medium=social&utm_source=twitter&hss_channel=tw-33893047 </li>
+ <li> VoCol: An Integrated Environment to Support
+Version-Controlled Vocabulary Development  https://github.com/vocol/vocol </li>
+ <li>Wizard for documenting ontologies https://github.com/dgarijo/Widoco </li>
 </ul> 
 <h3> SHACL </h3>
 SHACL Validation with GraphDB 9.5 
@@ -49,9 +52,6 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
   <li> Stream Reasoning with C-SPARQL
  https://arxiv.org/pdf/2106.08452.pdf </li>
  
- <li> VoCol: An Integrated Environment to Support
-Version-Controlled Vocabulary Development  https://github.com/vocol/vocol </li>
- <li>Wizard for documenting ontologies https://github.com/dgarijo/Widoco </li>
 </ul> 
 <h3> Mobile App </h3> 
 <ul>
