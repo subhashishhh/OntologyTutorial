@@ -68,6 +68,8 @@ https://docs.google.com/document/d/1CJ-uecwaE5kGDX6QFHuZCIwyVlcWJCQ4Xd6iwEfwxZs/
  <h3> Natural Language Processing </h3> 
  <ul>
  <li> Python library for Natural Language Processing https://pypi.org/project/PyNLPl/ </li>
+  
+   <li> Python knowledge-graph Libraries https://pythonrepo.com/tag/knowledge-graph </li>
   <li> Natural Language Processing -- Stanford University https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv </li>
  </ul> 
 
