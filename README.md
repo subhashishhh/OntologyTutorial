@@ -27,7 +27,7 @@ https://github.com/bio-ontology-research-group/ontology-tutorial </li>
  <li> Data Virtualization with GraphDB 9.5 https://youtu.be/ToITEJESi60 </li>
  
  <li> RDF-Star: Metadata Complexity Simplified https://www.ontotext.com/blog/rdf-star-metadata-complexity-simplified/?utm_campaign=AS&utm_content=169685042&utm_medium=social&utm_source=twitter&hss_channel=tw-33893047 </li>
- 
+ <li>  What is RDF-star https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf-star/ </li>
  <li>  RDF-star and SPARQL-star https://w3c.github.io/rdf-star/cg-spec/editors_draft.html </li>
  <li> VoCol: An Integrated Environment to Support
 Version-Controlled Vocabulary Development  https://github.com/vocol/vocol </li>
