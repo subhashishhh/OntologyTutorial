@@ -60,6 +60,8 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
  <li> Advanced SPARQL querying in small molecule databases https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0144-4 
  and https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00515-1 </li>
  
+ <li> Jekyll RDF Template-Based Linked Data Maximum Scalability https://arxiv.org/pdf/2201.00618.pdf </li>
+ 
 </ul> 
 <h3> Mobile App </h3> 
 <ul>
