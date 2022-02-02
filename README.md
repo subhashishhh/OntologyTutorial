@@ -83,5 +83,6 @@ https://docs.google.com/document/d/1CJ-uecwaE5kGDX6QFHuZCIwyVlcWJCQ4Xd6iwEfwxZs/
   <li> Natural Language Processing -- Stanford University https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv </li>
   
   <li>  Read PDF data and process it https://forum.knime.com/t/read-pdf-data-and-process-it/12173/8 </li>
+   <li>  Language Interpretability Tool (LIT) https://github.com/pair-code/lit </li>
  </ul> 
 
