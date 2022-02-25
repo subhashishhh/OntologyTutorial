@@ -7,6 +7,7 @@
 http://mowl-power.cs.man.ac.uk/protegeowltutorial/resources/ProtegeOWLTutorialP4_v1_3.pdf </li>
  
  <li> New Protégé Pizza Tutorial https://www.michaeldebellis.com/post/new-protege-pizza-tutorial </li>
+  <li>  ISO/IEC 21838 Top-level ontology https://www.youtube.com/watch?v=aux_zcK7XSI </li>
 
  <li> Tutorial 6: Large scale semantic graph data management and analytics
 https://bigdataieee.org/BigData2019/files/Tutorial6.pdf </li>
