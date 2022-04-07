@@ -17,7 +17,7 @@ https://bigdataieee.org/BigData2019/files/Tutorial6.pdf </li>
  <li> How Ontologies Benefit Enterprise Applications http://www.semantic-web-journal.net/system/files/swj212_2.pdf </li>
  <li> Data and Knowledge Representation Languages-DISI-University of Trento, Italy
 http://dit.unitn.it/~ldkr/ldkr2016/lessons.html </li>
- 
+ <li> Difference Between Ontology and Epistemology http://www.differencebetween.net/science/health/difference-between-ontology-and-epistemology/ </li>
  <li> k.LAB: a semantic web platform for science https://docs.integratedmodelling.org/technote/ </li>
 
 
