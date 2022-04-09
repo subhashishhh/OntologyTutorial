@@ -41,6 +41,9 @@ https://github.com/bio-ontology-research-group/ontology-tutorial </li>
  <li> VoCol: An Integrated Environment to Support
 Version-Controlled Vocabulary Development  https://github.com/vocol/vocol </li>
  <li>Wizard for documenting ontologies https://github.com/dgarijo/Widoco </li>
+ 
+ <li> Working with legacy RDF systems use RDF/XML format
+ https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827 </li>
 </ul> 
 <h3> SHACL </h3>
 SHACL Validation with GraphDB 9.5 
