@@ -75,6 +75,7 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
  <li> Jekyll RDF Template-Based Linked Data Maximum Scalability https://arxiv.org/pdf/2201.00618.pdf </li>
  
  <li> Enable  geoSparql plugin in GraphDB https://graphdb.ontotext.com/documentation/standard/geosparql-support.html </li>
+  <li> Semantic Structure based Query Graph Prediction for Question Answering over Knowledge Graph https://arxiv.org/pdf/2204.10194.pdf </li>
  
 </ul> 
 <h3> Mobile App </h3> 
