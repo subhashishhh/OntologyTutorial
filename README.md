@@ -19,7 +19,7 @@ https://bigdataieee.org/BigData2019/files/Tutorial6.pdf </li>
 http://dit.unitn.it/~ldkr/ldkr2016/lessons.html </li>
  <li> Difference Between Ontology and Epistemology http://www.differencebetween.net/science/health/difference-between-ontology-and-epistemology/ </li>
  <li> k.LAB: a semantic web platform for science https://docs.integratedmodelling.org/technote/ </li>
-
+<li>  Only answering competency questions is not enough to evaluate your ontology https://keet.wordpress.com/2022/06/08/only-answering-competency-questions-is-not-enough-to-evaluate-your-ontology/ </li>
 
 
  <li> Developing Web Science
