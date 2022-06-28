@@ -64,6 +64,8 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html
   https://www.youtube.com/watch?v=eosJJ7mKZGE </li>
   <li> SPARQL Endpoints and Web API
 (SWApi) https://d2klab.github.io/swapi2020/ </li>
+
+  <li> Querying Knowledge Graphs-dbpedia with SPARQL (Graph Triple Pattern) https://www.youtube.com/watch?v=H-UrfOMNb08&list=PLNXdQl4kBgzsxetQvJula_NZheeG4onsR&index=5 </li>
   <li> grlc 
   https://grlc.io/ </li>
  <li>  Integrating Wikidata and other linked data sources – Federated SPARQL queries https://sulab.org/2017/07/integrating-wikidata-and-other-linked-data-sources-federated-sparql-queries/ </li>
