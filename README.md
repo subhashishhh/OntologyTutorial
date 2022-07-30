@@ -13,7 +13,7 @@ http://mowl-power.cs.man.ac.uk/protegeowltutorial/resources/ProtegeOWLTutorialP4
 https://bigdataieee.org/BigData2019/files/Tutorial6.pdf </li>
 
  <li>  Tutorial, DBKDA 2018: The architectures of triple-stores https://www.iaria.org/conferences2018/filesDBKDA18/IztokSavnik_Tutorial_3store-arch.pdf </li>
- 
+  <li> Accessing scientific data through knowledge graphs with Ontop https://www.sciencedirect.com/science/article/pii/S2666389921002014 </li>
  <li> How Ontologies Benefit Enterprise Applications http://www.semantic-web-journal.net/system/files/swj212_2.pdf </li>
  <li> Data and Knowledge Representation Languages-DISI-University of Trento, Italy
 http://dit.unitn.it/~ldkr/ldkr2016/lessons.html </li>
