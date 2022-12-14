@@ -34,6 +34,7 @@ https://github.com/bio-ontology-research-group/ontology-tutorial </li>
  
   <li> A Gateway to Knowledge Graphs Learn about Knowledge Graphs by solving a practical problem. https://ldtim-kgwithr.netlify.app </li>
  <li> Knowledge Graphs Book https://kgbook.org/ </li>
+ <li> Knowledge Graph Embeddings Tutorial: From Theory to Practice https://kge-tutorial-ecai2020.github.io/ </li>
  <li> Data Virtualization with GraphDB 9.5 https://youtu.be/ToITEJESi60 </li>
  
  <li> GraphDB Fundamentals Workbench and rest API https://www.youtube.com/watch?v=5P2lduGPDSs </li>
