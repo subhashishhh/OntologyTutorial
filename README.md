@@ -53,6 +53,7 @@ Version-Controlled Vocabulary Development  https://github.com/vocol/vocol </li>
 SHACL Validation with GraphDB 9.5 
 https://graphdb.ontotext.com/documentation/free/shacl-validation.html 
  <li> GraphDB Users Ask: How Does SHACL Work on GraphDB? https://www.ontotext.com/blog/graphdb-users-ask-how-shackl-work-on-graphdb/? </li>
+ <li> Validate Graph Data with SHACL https://www.youtube.com/watch?v=ZLTcKwnjeoU </li>
 
 W3C Workshop on Web Standardization for Graph Data Creating Bridges: RDF, Property Graph and SQL
 https://www.w3.org/Data/events/data-ws-2019/minutes.html
