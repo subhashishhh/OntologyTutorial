@@ -50,14 +50,14 @@ Version-Controlled Vocabulary Development  https://github.com/vocol/vocol </li>
  https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827 </li>
 </ul> 
 <h3> SHACL </h3>
-SHACL Validation with GraphDB 9.5 
-https://graphdb.ontotext.com/documentation/free/shacl-validation.html 
+<li> SHACL Validation with GraphDB 9.5 
+https://graphdb.ontotext.com/documentation/free/shacl-validation.html </li>
  <li> GraphDB Users Ask: How Does SHACL Work on GraphDB? https://www.ontotext.com/blog/graphdb-users-ask-how-shackl-work-on-graphdb/? </li>
  <li> Validate Graph Data with SHACL https://www.youtube.com/watch?v=ZLTcKwnjeoU </li>
  <li> Validate Graph Data with SHACL https://www.youtube.com/watch?v=ZLTcKwnjeoU&t=1s </li>
 
-W3C Workshop on Web Standardization for Graph Data Creating Bridges: RDF, Property Graph and SQL
-https://www.w3.org/Data/events/data-ws-2019/minutes.html
+<li> W3C Workshop on Web Standardization for Graph Data Creating Bridges: RDF, Property Graph and SQL
+https://www.w3.org/Data/events/data-ws-2019/minutes.html </li>
 </ul> 
 <h3>SPARQL Query </h3>
  <ul>
