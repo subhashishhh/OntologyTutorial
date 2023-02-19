@@ -107,5 +107,6 @@ https://docs.google.com/document/d/1CJ-uecwaE5kGDX6QFHuZCIwyVlcWJCQ4Xd6iwEfwxZs/
   
   <li>  Read PDF data and process it https://forum.knime.com/t/read-pdf-data-and-process-it/12173/8 </li>
    <li>  Language Interpretability Tool (LIT) https://github.com/pair-code/lit </li>
+   <li>Chat Bot With PyTorch - NLP And Deep Learning https://www.youtube.com/watch?v=RpWeNzfSUHw and https://www.youtube.com/watch?v=8qwowmiXANQ </li>
  </ul> 
 
