@@ -69,6 +69,7 @@ https://www.w3.org/Data/events/data-ws-2019/minutes.html </li>
   https://www.youtube.com/watch?v=eosJJ7mKZGE </li>
   <li> SPARQL Endpoints and Web API
 (SWApi) https://d2klab.github.io/swapi2020/ </li>
+<li>  SPARQL playground utility https://sparql-playground.sib.swiss/ </li>
 
   <li> Querying Knowledge Graphs-dbpedia with SPARQL (Graph Triple Pattern) https://www.youtube.com/watch?v=H-UrfOMNb08&list=PLNXdQl4kBgzsxetQvJula_NZheeG4onsR&index=5 </li>
   <li> grlc 
