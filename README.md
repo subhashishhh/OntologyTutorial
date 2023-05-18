@@ -107,7 +107,7 @@ IN THE WEB OF DATA https://theses.hal.science/tel-01508602v3/document </li>
 <ul>
 <li> Interactive Deep Learning Book https://d2l.ai </li>
  </ul> 
- <h3> Natural Language Processing </h3> 
+<h3> Natural Language Processing </h3> 
  <ul>
  <li> Python library for Natural Language Processing https://pypi.org/project/PyNLPl/ </li>
   
