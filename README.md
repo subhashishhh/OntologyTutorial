@@ -98,6 +98,11 @@ https://punya.mit.edu </li>
 <li>  Punya: The instructions for the tutorial are available as a Google Doc.
 https://docs.google.com/document/d/1CJ-uecwaE5kGDX6QFHuZCIwyVlcWJCQ4Xd6iwEfwxZs/edit?usp=sharing </li>
 
+<h3> Data Integration  </h3> 
+ <ul>
+<li> INTEGRATING HETEROGENEOUS DATA SOURCES
+IN THE WEB OF DATA https://theses.hal.science/tel-01508602v3/document </li>
+ </ul> 
 <h3> Deep Learning  </h3> 
 <ul>
 <li> Interactive Deep Learning Book https://d2l.ai </li>
