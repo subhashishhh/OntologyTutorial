@@ -5,7 +5,7 @@
 <ul>
  <li> A Practical Guide To Building OWL Ontologies Using Protégé 4 and CO-ODE Tools Edition 1.3 
 http://mowl-power.cs.man.ac.uk/protegeowltutorial/resources/ProtegeOWLTutorialP4_v1_3.pdf </li>
- 
+ <li>  How to (properly) publish a vocabulary or ontology in the web https://linkingresearch.wordpress.com/2013/06/10/how-to-properly-publish-a-vocabulary-or-ontology-in-the-web-part-2-of-6/ </li>
  <li> New Protégé Pizza Tutorial https://www.michaeldebellis.com/post/new-protege-pizza-tutorial </li>
   <li>  ISO/IEC 21838 Top-level ontology https://www.youtube.com/watch?v=aux_zcK7XSI </li>
 
